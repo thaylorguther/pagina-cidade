@@ -1,0 +1,17 @@
+body{
+background-color: rgb(115, 7, 117);
+}
+
+.titulo{
+
+    text-align: center;
+    color: aliceblue;
+}
+
+.descricao{
+
+    text-align: center;
+    color: aliceblue;
+    justify-content: space-between;
+
+}
